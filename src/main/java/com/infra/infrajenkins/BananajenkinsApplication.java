@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InfraJenkinsApplication {
+public class BananajenkinsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InfraJenkinsApplication.class, args);
+		SpringApplication.run(BananajenkinsApplication.class, args);
 	}
 
 }
