@@ -5,7 +5,7 @@ FROM openjdk:11
 WORKDIR /bananadiretorio
 
 #faz nada...indica qual porta será utilizada
-EXPOSE 8090
+EXPOSE 8080
 
 COPY target/bananajenkins-0.0.1-SNAPSHOT.jar /bananadiretorio/banana.jar
 
